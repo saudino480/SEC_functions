@@ -1,0 +1,413 @@
+CHK20030227
+table:0,,Volume,Average Strike Price,Weighted- Average Put Strike Price,Weighted- Average Differential to Mid- Continent Points,SFAS 133 Hedge
+0,natural gas (mmbtu),,,,,
+1,Swaps,,,,,
+2,2003,57150000,4.31,,,Yes
+3,Cap-Swaps,,,,,
+4,2003,51100000,3.60,2.60,,No
+5,Basis Protection Swaps,,,,,
+6,2003,91250000,,,Neg0.15,No
+7,2004,91500000,,,Neg0.15,No
+8,2005,98550000,,,Neg0.16,No
+9,2006,36500000,,,Neg0.16,No
+10,2007,45625000,,,Neg0.16,No
+11,2008,45750000,,,Neg0.16,No
+12,2009,36500000,,,Neg0.16,No
+13,Counter-Swaps,,,,,
+14,2003,45700000,3.74,,,No
+15,Locked-Swaps,,,,,
+16,2003,,,,,No
+20,Oil (bbls),,,,,
+21,Swaps,,,,,
+22,2003,360000,25.10,,,Yes
+23,Cap-Swaps,,,,,
+24,2003,3015000,28.10,,,No
+CHK20040315
+table:0,,Volume,Weighted Average StrikePrice,WeightedAveragePutStrikePrice,Weighted Average Call StrikePrice,Weighted Average Differential,SFAS 133Hedge,PremiumsReceived
+1,Natural Gas (mmbtu),,,,,,,
+2,Swaps,,,,,,,
+3,2004,171120000,5.31,,,,Yes,
+4,2005,45550000,4.82,,,,Yes,
+5,2006,25550000,4.74,,,,Yes,
+6,2007,25550000,4.76,,,,Yes,
+8,Basis ProtectionSwaps,,,,,,,
+9,2004,157380000,,,,Neg0.17,No,
+10,2005,109500000,,,,Neg0.16,No,
+11,2006,47450000,,,,Neg0.16,No,
+12,2007,63875000,,,,Neg0.17,No,
+13,2008,64050000,,,,Neg0.17,No,
+14,2009,36500000,,,,Neg0.16,No,
+16,Cap-Swaps,,,,,,,
+17,2004,29320000,5.31,3.75,,,No,
+18,2005,36500000,5.31,3.79,,,No,
+19,2006,7300000,5.36,3.75,,,No,
+21,Call Options,,,,,,,
+22,2004,60760000,,,6.30,,No,16766
+24,Locked-Swaps,,,,,,,
+25,2004,,,,,,No,
+29,Oil (bbls),,,,,,,
+31,Cap-Swaps,,,,,,,
+32,2004,4516000,28.68,21.76,,,No,
+CHK20050309
+table:0,,Volume,Weighted-Average FixedPrice to beReceived (Paid),Weighted-AveragePut FixedPrice,Weighted-AverageCall FixedPrice,Weighted-AverageDifferential,SFAS 133Hedge,PremiumsReceived
+1,Natural Gas (mmbtu),,,,,,,
+2,Swaps,,,,,,,
+3,2005,95355000,$6.72,,,,Yes,
+4,2006,18250000,6.60,,,,Yes,
+6,Basis Protection Swaps,,,,,,,
+7,2005,188590000,,,,Neg0.26,No,
+8,2006,130140000,,,,Neg0.32,No,
+9,2007,126495000,,,,Neg0.28,No,
+10,2008,118610000,,,,Neg0.27,No,
+11,2009,86600000,,,,Neg0.29,No,
+13,Cap-Swaps,,,,,,,
+14,2005,60225000,6.00,4.32,,,No,
+15,2006,28350000,6.52,4.93,,,No,
+17,Counter Swaps,,,,,,,
+18,2006,Neg7300000,Neg5.59,,,,No,
+20,Call Options,,,,,,,
+21,2005,7300000,,,6.00,,No,3249
+23,Collars,,,,,,,
+24,2005,4380000,,3.10,4.44,,Yes,
+26,Locked Swaps,,,,,,,
+27,2005,38870000,,,,,No,
+28,2006,25550000,,,,,No,
+29,2007,25550000,,,,,No,
+34,Oil (bbls),,,,,,,
+35,Cap-Swaps,,,,,,,
+36,2005,1995500,$40.20,$31.44,,,No,
+CHK20100301
+table:0,",,","Volume,Volume,(bbtu)","Weighted Average Price,Fixed,","Weighted Average Price,Put,(per mmbtu)","Weighted Average Price,Call,(per mmbtu)","Weighted Average Price,Differential,","Cash FlowHedge,Cash FlowHedge,","NetPremiums,NetPremiums,($ in millions)"
+3,Natural Gas,,,,,,,
+4,Swaps,,,,,,,
+5,Q1|2010,63478,$7.59,,,,Yes,
+6,Q2|2010,64781,7.27,,,,Yes,
+7,Q3|2010,51972,7.32,,,,Yes,
+8,Q4|2010,53212,7.40,,,,Yes,
+9,2011,22210,7.99,,,,Yes,
+11,Other Swaps(a),,,,,,,
+12,Q1|2010,33890,7.22,,,,No,
+13,Q2|2010,43680,7.61,,,,No,
+14,Q3|2010,44160,7.69,,,,No,
+15,Q4|2010,44160,8.04,,,,No,
+16,2011,70510,9.52,,,,No,
+18,Collars,,,,,,,
+19,Q1|2010,29700,,6.24,8.06,,Yes,
+20,Q2|2010,7280,,7.00,8.25,,Yes,
+22,Other Collars(b),,,,,,,
+23,Q1|2010,13500,,4.29/7.05,9.49,,No,
+24,Q2|2010,9100,,4.35/7.07,9.91,,No,5
+25,Q3|2010,3680,,7.60,11.75,,No,4
+26,Q4|2010,3680,,7.60,11.75,,No,4
+27,2011,7300,,7.60,11.50,,No,7
+29,Knockout Swaps,,,,,,,
+30,Q3|2010,7360,9.79,6.32,,,No,
+31,Q4|2010,7360,9.79,6.31,,,No,
+32,2011,23650,9.86,6.29,,,No,
+34,Call Options,,,,,,,
+35,Q1|2010,18585,,,10.19,,No,41
+36,Q2|2010,28665,,,10.19,,No,41
+37,Q3|2010,34040,,,10.22,,No,43
+38,Q4|2010,34040,,,10.30,,No,43
+39,2011,20987,,,10.73,,No,42
+40,2012,262605,,,8.46,,No,16
+41,2013|2020,597828,,,9.10,,No,102
+43,Put Options,,,,,,,
+44,Q3|2010,Neg16560,,5.73,,,No,6
+45,Q4|2010,Neg16560,,5.73,,,No,6
+46,2011,Neg36500,,5.75,,,No,25
+48,Basis Protection Swaps,,,,,,,
+49,(Non-Appalachian Basin),,,,,,,
+50,2011,45090,,,,Neg0.82,No,Neg3
+51,2012|2018,57961,,,,Neg0.90,No,Neg3
+53,Basis Protection Swaps,,,,,,,
+54,(Appalachian Basin),,,,,,,
+55,Q1|2010,2293,,,,0.27,No,
+56,Q2|2010,2513,,,,0.27,No,
+57,Q3|2010,2660,,,,0.26,No,
+58,Q4|2010,2732,,,,0.26,No,
+59,2011,12086,,,,0.25,No,
+60,2012|2022,134,,,,0.11,No,
+CHK20100301
+table:1,",,","Volume,Volume,(mbbls)","Weighted Average Price,Fixed,","Weighted Average Price,Put,(per bbl)","Weighted Average Price,Call,(per bbl)","Weighted Average Price,Differential,","Cash FlowHedge,Cash FlowHedge,","NetPremiums,NetPremiums,($ in millions)"
+3,Oil,,,,,,,
+4,Swaps,,,,,,,
+5,Q1|2010,450,$85.86,,,,Yes,
+6,Q2|2010,455,85.86,,,,Yes,
+7,Q3|2010,460,85.86,,,,Yes,
+8,Q4|2010,460,85.86,,,,Yes,
+10,Other Swaps(c),,,,,,,
+11,Q1|2010,360,91.96,,,,No,
+12,Q2|2010,364,91.96,,,,No,
+13,Q3|2010,368,91.96,,,,No,
+14,Q4|2010,368,91.96,,,,No,
+15,2011,2190,91.76,,,,No,
+17,Knock-Out Swaps,,,,,,,
+18,Q1|2010,1170,90.25,60.00,,,No,
+19,Q2|2010,1183,90.25,60.00,,,No,
+20,Q3|2010,1196,90.25,60.00,,,No,
+21,Q4|2010,1196,90.25,60.00,,,No,
+22,2011,1095,104.75,60.00,,,No,
+23,2012,732,109.50,60.00,,,No,
+25,Call Options,,,,,,,
+26,Q1|2010,630,,,105.00,,No,Neg1
+27,Q2|2010,637,,,105.00,,No,Neg1
+28,Q3|2010,644,,,105.00,,No,Neg1
+29,Q4|2010,644,,,105.00,,No,Neg1
+30,2011,3650,,,105.00,,No,16
+31,2012|2014,8770,,,99.59,,No,16
+CHK20110301
+table:0,",,",",Volume,(bbtu)","Weighted Average Price,Fixed,(per mmbtu)","Weighted Average Price,Put,(per mmbtu)","Weighted Average Price,Call,(per mmbtu)","Weighted Average Price,Differential,(per mmbtu)","Cash FlowHedge,Cash FlowHedge,"
+3,Natural Gas,,,,,,
+4,Swaps,,,,,,
+5,Q1|2011,89354,$5.60,,,,Yes
+6,Q2|2011,91023,5.35,,,,Yes
+7,Q3|2011,132480,4.93,,,,Yes
+8,Q4|2011,132480,4.93,,,,Yes
+9,2012,12800,6.00,,,,Yes
+11,Other Swaps(a),,,,,,
+12,Q1|2011,142545,6.43,,,,No
+13,Q2|2011,140512,6.35,,,,No
+14,Q3|2011,85880,6.70,,,,No
+15,Q4|2011,85880,6.73,,,,No
+16,2012,122180,6.19,,,,No
+18,Call Options,,,,,,
+19,2012,161077,,,6.54,,No
+20,2013,436033,,,6.44,,No
+21,2014,330183,,,6.44,,No
+22,2015,226446,,,6.31,,No
+23,2016|2020,324003,,,8.31,,No
+25,Put Options,,,,,,
+26,Q1|2011,Neg9000,,5.75,,,No
+27,Q2|2011,Neg9100,,5.75,,,No
+28,Q3|2011,Neg16560,,5.42,,,No
+29,Q4|2011,Neg16560,,5.48,,,No
+31,Basis Protection Swaps,,,,,,
+32,(Non-Appalachian Basin),,,,,,
+33,Q2|2011,19147,,,,Neg0.82,No
+34,Q3|2011,19397,,,,Neg0.82,No
+35,Q4|2011,6545,,,,Neg0.82,No
+36,2012,50532,,,,Neg0.78,No
+37,2013|2019,29349,,,,Neg0.69,No
+39,Basis Protection Swaps,,,,,,
+40,(Appalachian Basin),,,,,,
+41,Q1|2011,11674,,,,0.14,No
+42,Q2|2011,12186,,,,0.14,No
+43,Q3|2011,12403,,,,0.14,No
+44,Q4|2011,12324,,,,0.14,No
+45,2012|2022,134,,,,0.11,No
+CHK20110301
+table:1,",,",",Volume,(bbtu)","Weighted Average Price,Fixed,(per mmbtu)","Weighted Average Price,Put,(per mmbtu)","Weighted Average Price,Call,(per mmbtu)","Cash FlowHedge,Cash FlowHedge,"
+3,Oil,,,,,
+4,Swaps,,,,,
+5,Q1|2011,180,$91.35,,,Yes
+6,Q2|2011,182,91.35,,,Yes
+7,Q3|2011,184,91.35,,,Yes
+8,Q4|2011,184,91.35,,,Yes
+10,Other Swaps(a),,,,,
+11,2012,1830,100.00,,,No
+12,2013,1825,100.00,,,No
+14,Call Options(b),,,,,
+15,Q1|2011,2250,,,72.81,No
+16,Q2|2011,2275,,,72.81,No
+17,Q3|2011,2300,,,72.81,No
+18,Q4|2011,2300,,,72.81,No
+19,2012,15644,,,79.82,No
+20,2013,12739,,,85.37,No
+21,2014,8707,,,87.72,No
+22,2015,7411,,,85.31,No
+23,2016|2017,10600,,,84.25,No
+25,Knock-Out Swaps,,,,,
+26,Q1|2011,270,104.75,60.00,,No
+27,Q2|2011,273,104.75,60.00,,No
+28,Q3|2011,276,104.75,60.00,,No
+29,Q4|2011,276,104.75,60.00,,No
+30,2012,732,109.50,60.00,,No
+CHK20120229
+table:0,",,Natural Gas,","Volume,Volume,(tbtu),","Weighted Average Price,Call,(per mmbtu),","Weighted Average Price,Differential,(per mmbtu),","Cash FlowHedge,Cash FlowHedge,,"
+4,Call Options (sold),,,,
+5,2012,370,$7.36,,No
+6,2013,415,6.44,,No
+7,2014,330,6.43,,No
+8,2015,226,6.31,,No
+9,2016,279,6.72,,No
+10,2017|2020,114,10.92,,No
+12,Call Options (bought)(a),,,,
+13,2012,Neg223,7.90,,No
+14,2015,Neg110,6.16,,No
+15,2016,Neg44,6.00,,No
+17,Basis Protection Swaps,,,,
+18,Q1|2012,2,,Neg0.35,No
+19,Q2|2012,20,,Neg0.81,No
+20,Q3|2012,21,,Neg0.80,No
+21,Q4|2012,8,,Neg0.74,No
+22,2013|2018,55,,Neg0.48,No
+CHK20120229
+table:1,",,Oil,","Volume,Volume,(mmbbl),","Weighted Average Price,Fixed,(per bbl),","Weighted Average Price,Put,(per bbl),","Weighted Average Price,Call,(per bbl),","Cash FlowHedge,Cash FlowHedge,,"
+4,Non-Qualified Swaps,,,,,
+5,Q1|2012,4.6,$101.15,,,No
+6,Q2|2012,4.6,101.82,,,No
+7,Q3|2012,2.1,100.93,,,No
+8,Q4|2012,1.7,99.55,,,No
+9,2013,0.7,87.69,,,No
+10,2014,0.7,88.27,,,No
+11,2015,0.5,88.75,,,No
+13,Call Options (sold)(b),,,,,
+14,Q1|2012,4.1,,,93.03,No
+15,Q2|2012,4.0,,,93.03,No
+16,Q3|2012,4.1,,,93.03,No
+17,Q4|2012,4.1,,,93.03,No
+18,2013,19.4,,,94.74,No
+19,2014,15.4,,,96.61,No
+20,2015,19.4,,,100.57,No
+21,2016,18.9,,,104.71,No
+22,2017,5.3,,,83.50,No
+24,Swaptions,,,,,
+25,Q3|2012,1.8,106.38,,,No
+26,Q4|2012,2.3,106.45,,,No
+27,2013,3.7,102.88,,,No
+29,Knock-Out Swaps,,,,,
+30,Q1|2012,0.2,109.50,60.00,,No
+31,Q2|2012,0.2,109.50,60.00,,No
+32,Q3|2012,0.2,109.50,60.00,,No
+33,Q4|2012,0.2,109.50,60.00,,No
+CHK20130301
+table:0,",,,",",,Volume,(tbtu)",",Weighted Average Price,Fixed,",",Weighted Average Price,Call,(per mmbtu)",",Weighted Average Price,Differential,",",Designated,Hedge,"
+4,Natural Gas,,,,,
+5,Swaps,,,,,
+6,Q1|2013,24,$3.90,,,No
+7,Q2|2013,25,3.90,,,No
+8,Call Options (sold),,,,,
+9,Q1|2013,44,,6.39,,No
+10,Q2|2013,67,,6.39,,No
+11,Q3|2013,68,,6.39,,No
+12,Q4|2013,68,,6.39,,No
+13,2014,330,,6.43,,No
+14,2015,226,,6.31,,No
+15,2016,279,,6.72,,No
+16,2017|2020,114,,10.92,,No
+17,Call Options (bought)(a),,,,,
+18,Q1|2013,Neg44,,6.39,,No
+19,Q2|2013,Neg67,,6.39,,No
+20,Q3|2013,Neg68,,6.39,,No
+21,Q4|2013,Neg68,,6.39,,No
+22,2014,Neg330,,6.43,,No
+23,2015,Neg226,,6.31,,No
+24,2016,Neg200,,6.02,,No
+25,Basis Protection Swaps,Basis Protection Swaps,,,,
+26,2013,44,,,Neg0.21,No
+27,2014,28,,,Neg0.32,No
+28,2015,31,,,Neg0.34,No
+29,2016|2022,8,,,Neg1.02,No
+CHK20130301
+table:1,",,,",",,Volume,(mmbbl)",",Weighted Average Price,Fixed,",",Weighted Average Price,Call,(per bbl)",",Weighted Average Price,Differential,",",Designated,Hedge,"
+4,Oil,,,,,
+5,Swaps,,,,,
+6,Q1|2013,5.9,$95.79,,,No
+7,Q2|2013,6.9,95.95,,,No
+8,Q3|2013,7.0,95.88,,,No
+9,Q4|2013,6.9,95.83,,,No
+10,2014|2015,1.4,90.11,,,No
+11,Call Options (sold),,,,,
+12,Q1|2013,4.8,,94.74,,No
+13,Q2|2013,4.8,,94.74,,No
+14,Q3|2013,4.9,,94.74,,No
+15,Q4|2013,4.9,,94.74,,No
+16,2014,16.9,,96.92,,No
+17,2015,24.7,,100.45,,No
+18,2016,18.9,,104.71,,No
+19,2017,5.3,,83.50,,No
+20,Call Options (bought)(b),,,,,
+21,Q1|2013,Neg2.3,,90.80,,No
+22,Q2|2013,Neg2.3,,90.80,,No
+23,Q3|2013,Neg2.3,,90.80,,No
+24,Q4|2013,Neg2.3,,90.80,,No
+25,2014,Neg2.2,,94.91,,No
+26,Basis Protection Swaps,Basis Protection Swaps,,,,
+27,2013,5.5,,,13.20,No
+28,Call Swaptions,,,,,
+29,2014,2.9,106.69,,,No
+30,2015,2.4,106.61,,,No
+CHK20140227
+table:0,",,,",",,Volume,(tbtu)",",Weighted Average Price,Fixed,($ per mmbtu)",",Weighted Average Price,Call,($ per mmbtu)",",Weighted Average Price,Put,($ per mmbtu)",",Weighted Average Price,,($ per mmbtu)",",Weighted Average Price,Differential,($ per mmbtu)"
+4,Natural Gas,,,,,,
+5,Swaps,,,,,,
+6,Short-term,448,4.15,,,,
+7,3-Way Collars,,,,,,
+8,Short-term,196,,4.38,3.58 / 4.13,,
+9,Long-term,92,,4.45,3.38 / 4.24,,
+10,Call Options (sold),,,,,,
+11,Short-term,330,,6.43,,,
+12,Long-term,619,,7.34,,,
+13,Call Options (bought)(a),,,,,,
+14,Long-term,Neg330,,6.43,,,
+15,Short-term,Neg426,,6.17,,,
+16,Swaptions,Swaptions,,,,,
+17,Short-term,12,4.80,,,,
+18,Basis Protection Swaps,Basis Protection Swaps,,,,,
+19,Short-term,28,,,,,Neg0.32
+20,Long-term,40,,,,,Neg0.48
+CHK20140227
+table:1,",,,",",,Volume,(mmbbl)",",Weighted Average Price,Fixed,($ per bbl)",",Weighted Average Price,Call,($ per bbl)",",Weighted Average Price,,($ per bbl)",",Weighted Average Price,Differential,($ per bbl)"
+4,Oil,,,,,
+5,Swaps,,,,,
+6,Short-term,24.6,93.92,,,
+7,Long-term,0.7,89.47,,,
+8,Call Options (sold),,,,,
+9,Short-term,13.4,,96.11,,
+10,Long-term,48.9,,100.26,,
+11,Call Options (bought)(b),,,,,
+12,Short-term,Neg10.9,,98.97,,
+13,Long-term,Neg8.9,,113.54,,
+14,Basis Protection Swaps,Basis Protection Swaps,,,,
+15,Short-term,0.4,,,,6.00
+CHK20150227
+table:0,",,,",",,Volume,(mmbbl)",",Weighted Average Price,Fixed,($ per bbl)",",Weighted Average Price,Call,($ per bbl)",",Weighted Average Price,,($ per bbl)",",Weighted Average Price,Put,($ per bbl)",",Weighted Average Price,Differential,($ per bbl)"
+4,Oil,,,,,,
+5,Swaps,,,,,,
+6,Short-term,12.5,$94.58,,,,
+7,3-Way Collars,,,,,,
+8,Short-term,4.4,,98.94,,80.00 / 90.00,
+9,Call Options (sold),,,,,,
+11,Short-term,20.5,,101.85,,,
+12,Long-term,24.2,,100.07,,,
+13,Call Options (bought)(a),,,,,,
+14,Short-term,Neg8.9,,113.54,,,
+CHK20150227
+table:1,",,,,Natural Gas",",,Volume,(tbtu),",",Weighted Average Price,Fixed,($ per mmbtu),",",Weighted Average Price,Call,($ per mmbtu),",",Weighted Average Price,Put,($ per mmbtu),",",Weighted Average Price,,($ per mmbtu),",",Weighted Average Price,Differential,($ per mmbtu),"
+5,Swaps,,,,,,
+6,Short-term,238,$4.14,,,,
+7,Long-term,37,3.95,,,,
+8,3-Way Collars,,,,,,
+9,Short-term,207,,4.51,3.37 / 4.29,,
+10,Call Options (sold),,,,,,
+11,Short-term,226,,6.31,,,
+12,Long-term,393,,7.93,,,
+13,Call Options (bought)(b),,,,,,
+14,Short-term,Neg226,,6.31,,,
+15,Long-term,Neg200,,6.02,,,
+16,Basis Protection Swaps,Basis Protection Swaps,,,,,
+17,Short-term,52,,,,,0.55
+18,Long-term,8,,,,,Neg1.02
+CHK20160225
+table:0,",,,",",,Volume,(mmbbl)",",Weighted Average Price,Fixed,($ per bbl)",",Weighted Average Price,Call,($ per bbl)",",Weighted Average Price,Put,($ per bbl)",",Weighted Average Price,,($ per bbl)",",Weighted Average Price,Differential,($ per bbl)"
+4,Oil,,,,,,
+5,Swaps(a),,,,,,
+6,Short-term,13.5,$52.05,,,,
+7,Call Options (sold),,,,,,
+8,Short-term,13.9,,87.25,,,
+9,Long-term,5.3,,83.50,,,
+12,,,Weighted Average Price,Weighted Average Price,Weighted Average Price,Weighted Average Price,Weighted Average Price
+13,,Volume,Fixed,Call,Put,,Differential
+14,,(tbtu),($ per mmbtu),($ per mmbtu),($ per mmbtu),($ per mmbtu),($ per mmbtu)
+15,Natural Gas,,,,,,
+16,Swaps(b),,,,,,
+17,Short-term,500,$2.94,,,,
+18,Call Options (sold),,,,,,
+19,Short-term,381,,5.66,,,
+20,Long-term,114,,10.92,,,
+21,Call Options (bought)(c),Call Options (bought)(c),,,,,
+22,Short-term,Neg200,,6.02,,,
+23,Basis Protection Swaps,Basis Protection Swaps,,,,,
+24,Short-term,33,,,,,0.17
+25,Long-term,24,,,,,Neg0.48

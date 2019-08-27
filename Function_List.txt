@@ -1,0 +1,138 @@
+Sam: Volume, price columns
+Venkaka: Volume coupled w/ product type
+Nelson: delete duplicated tables; extract subtables
+
+Existing Function lists:
+
+1. del_subset_col()
+Delete columns that are a subset of another column
+Ex: df_dic['PLLL20080220'][5]
+
+
+2. set_col_headers()
+If “Unnamed” shows up in column header, it is likely that the scraping algorithm does not identify the right rows for column header; need to set the correct column header
+Ex: df_dic['PLLL20080220’][3]
+
+
+3. row_header_to_col()
+Change row header to column
+EX: df_dic['GDP20090227’][0], ['XCO20070319'][4]
+
+
+4. remove_rows_for_total_value()
+Total value rows are redundant; extract them and save in a different df
+EX: ['XCO20070319’][1], [‘XCO20060331’]
+
+
+5. dfs_need_transpose()
+Transpose the table (ZLU)
+Ex:[‘MRO20080229’][0], [‘MRO20170224’][0]
+
+
+6. delete_duplicated()
+Delete duplicated dataframes (NEL)
+Ex: ['ISRL20100312'], ['ISRL20100312'], ['ISRL20100312']
+Bug: [‘FST20030321’] table 0 and table 2; --> Not bug, iloc[6,0] is different!
+
+
+7. delete_subset()
+Delete subset dataframes (NEL)
+Ex: ['FST20130222']
+
+
+8. productCleaner(), instrumentCleaner()
+Creates columns product_type, and instrument_type to attempt to relevant information
+Ex:[‘GDP20070314’][0],[‘GDP20080313’][2]
+&
+Ex: FST20030321; need to extract product type from the description (no one yet)
+
+
+9. get_vertically_stacked_subtables()
+Outputs a dictionary indicating tickers and respective indices for subtables. (NEL)
+Ex: 'GDP20090227'
+
+
+10. vertically_stacked_subtable_cleaner()
+Appends the splitted subtables to the list where the subtables are contained in, and deletes the original subtables (NEL)
+Ex: 'GDP20090227'
+
+
+11. delete_empty()
+Removes any empty dataframes within a list. (NEL)
+
+
+12. delete_uninformative()
+Removes any dataframes where all of the following conditions are satisfied:
+    1) no column name starts with 'vol\d+',
+    2) no column name starts with 'Price\d+'. (NEL)
+Ex: 'HES20160226'[0]
+
+
+
+
+
+extract_subset_tables() (abandoned for now)
+N/a. Extract subset dataframes and put those into a list, to be coupled with remove_subset_tables (NEL)
+
+remove_subset_tables() (abandoned for now)
+N/a. Delete subset dataframes within the same tickers (NEL)
+Sample usage: remove_subset_tables(hedge_dictionary, extract_subset_tables(hedge_dictionary))
+Ex: ['ISRL20110311'][2, 1, 0]
+    ['FST20040315'][3, 1]
+    ['FST20070228'][2] (Note: all indices corresponds to post delete_duplicates)
+
+
+To-do-list
+
+1. extract subtables with headers (Nelson)
+Ex: df_dic['PLLL20080220’][2], [‘GDP20110222’][0],[‘GDP20090227’][1]
+
+
+2. Extract “instrument_type” to be a separate column (Sam)
+
+2.a Minor Bug in price column (Sam)
+Ex: ['XCO20070319'][1]
+
+3. Generate a "product_type" column to store the product information: oil/ng/ngl (Sam, Venkata)
+Ex: ['FST20070228'][0], ['FST20090302’][0], [‘ISRL20100312’][0]
+
+
+4. in general, make sure each df has "volume", "instrument_type", "product_type", "price", "maturity" columns; (if you want to work on it, contact ZLU)
+
+
+5. Difficult (might be impossible): maturity column (no one yet)
+
+
+Extra notes: [‘XCO20170316’] OK to drop put/call rows as they are decomposition of collar
+Extra notes: PDC is weird 
+
+Bug list:
+df_dic['APA20080229'][0]
+a bug associated w/ the volume column;
+the unit column is already there;
+CPE20140313
+table:0
+[combine unit with volume)
+ECA20170227
+table:0
+If both columns are identified as vol volums; combine these two
+
+tricks:
+EP20070228; choose the last table
+ESTE: exclude this ticker
+ESV: delete
+HFC20160224 (too difficult)
+HKN20080221:table:0, delete
+
+
+APC20060303	
+table:1	Price1
+
+
+GDP20080313
+table:3
+suspecious
+
+
+CNR20080313 (drop if there no vol and price column)
+table:0

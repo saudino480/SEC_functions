@@ -1,0 +1,17 @@
+Natural Gas:
+
+“Bcf”  One billion cubic feet of gas.
+“Bcfe”  One billion cubic feet of gas equivalent.  Determined using the ratio of one barrel of crude oil to six Mcf of natural gas.
+“Mcf”  One thousand cubic feet of natural gas.
+“Mcfe”  One thousand cubic feet of natural gas equivalent.  Determined using the ratio of one barrel of crude oil to six Mcf of natural gas.
+“MMcf”  One million cubic feet of natural gas.
+“MMcfe”  One million cubic feet of natural gas equivalent.  Determined using the ratio of one barrel of crude oil to six Mcf of natural gas.
+
+
+Oil:
+“Bbl”  One stock tank barrel, or 42 U.S. gallons liquid volume, used herein in reference to crude oil or other liquid hydrocarbons.
+“MBbls”  One thousand barrels of crude oil or other liquid hydrocarbons.
+“MMBbls”  One million barrels of crude oil or other liquid hydrocarbons.
+Unclear:
+“Btu”  British thermal unit, which is the heat required to raise the temperature of a one-pound mass of water by 1 degree Fahrenheit.
+“MMBtu”  One million Btu’s.

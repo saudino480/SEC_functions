@@ -1,0 +1,334 @@
+CHK20030227
+table:0,,volume,average strike price,weighted  average put strike price,weighted  average differential to mid  continent points,sfas 133 hedge,product_type,instrument_type
+2,2003,57150000,4.31,,,Yes,natural gas (mmbtu),swaps
+4,2003,51100000,3.60,2.60,,No,natural gas (mmbtu),cap-swaps
+6,2003,91250000,,,Neg0.15,No,natural gas (mmbtu),basis protection swaps
+7,2004,91500000,,,Neg0.15,No,natural gas (mmbtu),basis protection swaps
+8,2005,98550000,,,Neg0.16,No,natural gas (mmbtu),basis protection swaps
+9,2006,36500000,,,Neg0.16,No,natural gas (mmbtu),basis protection swaps
+10,2007,45625000,,,Neg0.16,No,natural gas (mmbtu),basis protection swaps
+11,2008,45750000,,,Neg0.16,No,natural gas (mmbtu),basis protection swaps
+12,2009,36500000,,,Neg0.16,No,natural gas (mmbtu),basis protection swaps
+14,2003,45700000,3.74,,,No,natural gas (mmbtu),counter-swaps
+16,2003,,,,,No,,
+22,2003,360000,25.10,,,Yes,oil (bbls),swaps
+24,2003,3015000,28.10,,,No,oil (bbls),cap-swaps
+CHK20040315
+table:0,,volume,weighted average call strikeprice,sfas 133hedge,premiumsreceived,product_type,instrument_type
+22,2004,60760000,6.30,No,16766,natural gas (mmbtu),call options
+CHK20040315
+table:1,,volume,weighted average differential,sfas 133hedge,product_type,instrument_type
+9,2004,157380000,Neg0.17,No,natural gas (mmbtu),basis protectionswaps
+10,2005,109500000,Neg0.16,No,natural gas (mmbtu),basis protectionswaps
+11,2006,47450000,Neg0.16,No,natural gas (mmbtu),basis protectionswaps
+12,2007,63875000,Neg0.17,No,natural gas (mmbtu),basis protectionswaps
+13,2008,64050000,Neg0.17,No,natural gas (mmbtu),basis protectionswaps
+14,2009,36500000,Neg0.16,No,natural gas (mmbtu),basis protectionswaps
+CHK20050309
+table:0,,volume,weighted average fixedprice to bereceived (paid),weighted averageput fixedprice,weighted averagecall fixedprice,sfas 133hedge,product_type,instrument_type
+3,2005,95355000,$6.72,,,Yes,natural gas (mmbtu),swaps
+4,2006,18250000,6.60,,,Yes,natural gas (mmbtu),swaps
+14,2005,60225000,6.00,4.32,,No,natural gas (mmbtu),cap-swaps
+15,2006,28350000,6.52,4.93,,No,natural gas (mmbtu),cap-swaps
+18,2006,Neg7300000,Neg5.59,,,No,natural gas (mmbtu),counter swaps
+24,2005,4380000,,3.10,4.44,Yes,natural gas (mmbtu),collars
+36,2005,1995500,$40.20,$31.44,,No,oil (bbls),cap-swaps
+CHK20050309
+table:1,,volume,weighted averagedifferential,sfas 133hedge,product_type,instrument_type
+7,2005,188590000,Neg0.26,No,natural gas (mmbtu),basis protection swaps
+8,2006,130140000,Neg0.32,No,natural gas (mmbtu),basis protection swaps
+9,2007,126495000,Neg0.28,No,natural gas (mmbtu),basis protection swaps
+10,2008,118610000,Neg0.27,No,natural gas (mmbtu),basis protection swaps
+11,2009,86600000,Neg0.29,No,natural gas (mmbtu),basis protection swaps
+CHK20100301
+table:0,",,","volume,volume,(bbtu)","weighted average price,fixed,","weighted average price,put,(per mmbtu)","cash flowhedge,cash flowhedge,",product_type,instrument_type
+5,Q1|2010,63478,$7.59,,Yes,natural gas,swaps
+6,Q2|2010,64781,7.27,,Yes,natural gas,swaps
+7,Q3|2010,51972,7.32,,Yes,natural gas,swaps
+8,Q4|2010,53212,7.40,,Yes,natural gas,swaps
+9,2011,22210,7.99,,Yes,natural gas,swaps
+12,Q1|2010,33890,7.22,,No,natural gas,other swaps(a)
+13,Q2|2010,43680,7.61,,No,natural gas,other swaps(a)
+14,Q3|2010,44160,7.69,,No,natural gas,other swaps(a)
+15,Q4|2010,44160,8.04,,No,natural gas,other swaps(a)
+16,2011,70510,9.52,,No,natural gas,other swaps(a)
+30,Q3|2010,7360,9.79,6.32,No,natural gas,knockout swaps
+31,Q4|2010,7360,9.79,6.31,No,natural gas,knockout swaps
+32,2011,23650,9.86,6.29,No,natural gas,knockout swaps
+CHK20100301
+table:1,",,","volume,volume,(bbtu)","weighted average price,put,(per mmbtu)","weighted average price,call,(per mmbtu)","cash flowhedge,cash flowhedge,","netpremiums,netpremiums,($ in millions)",product_type,instrument_type
+19,Q1|2010,29700,6.24,8.06,Yes,,natural gas,collars
+20,Q2|2010,7280,7.00,8.25,Yes,,natural gas,collars
+23,Q1|2010,13500,4.29/7.05,9.49,No,,natural gas,other collars(b)
+24,Q2|2010,9100,4.35/7.07,9.91,No,5,natural gas,other collars(b)
+25,Q3|2010,3680,7.60,11.75,No,4,natural gas,other collars(b)
+26,Q4|2010,3680,7.60,11.75,No,4,natural gas,other collars(b)
+27,2011,7300,7.60,11.50,No,7,natural gas,other collars(b)
+35,Q1|2010,18585,,10.19,No,41,natural gas,call options
+36,Q2|2010,28665,,10.19,No,41,natural gas,call options
+37,Q3|2010,34040,,10.22,No,43,natural gas,call options
+38,Q4|2010,34040,,10.30,No,43,natural gas,call options
+39,2011,20987,,10.73,No,42,natural gas,call options
+40,2012,262605,,8.46,No,16,natural gas,call options
+41,2013|2020,597828,,9.10,No,102,natural gas,call options
+CHK20100301
+table:2,",,","volume,volume,(bbtu)","weighted average price,differential,","cash flowhedge,cash flowhedge,","netpremiums,netpremiums,($ in millions)",product_type,instrument_type,additional
+50,2011,45090,Neg0.82,No,Neg3,natural gas,basis protection swaps,(non-appalachian basin)
+51,2012|2018,57961,Neg0.90,No,Neg3,natural gas,basis protection swaps,(non-appalachian basin)
+55,Q1|2010,2293,0.27,No,,natural gas,basis protection swaps,(appalachian basin)
+56,Q2|2010,2513,0.27,No,,natural gas,basis protection swaps,(appalachian basin)
+57,Q3|2010,2660,0.26,No,,natural gas,basis protection swaps,(appalachian basin)
+58,Q4|2010,2732,0.26,No,,natural gas,basis protection swaps,(appalachian basin)
+59,2011,12086,0.25,No,,natural gas,basis protection swaps,(appalachian basin)
+60,2012|2022,134,0.11,No,,natural gas,basis protection swaps,(appalachian basin)
+CHK20100301
+table:3,",,","volume,volume,(mbbls)","weighted average price,fixed,","weighted average price,put,(per bbl)","cash flowhedge,cash flowhedge,",product_type,instrument_type
+5,Q1|2010,450,$85.86,,Yes,oil,swaps
+6,Q2|2010,455,85.86,,Yes,oil,swaps
+7,Q3|2010,460,85.86,,Yes,oil,swaps
+8,Q4|2010,460,85.86,,Yes,oil,swaps
+11,Q1|2010,360,91.96,,No,oil,other swaps(c)
+12,Q2|2010,364,91.96,,No,oil,other swaps(c)
+13,Q3|2010,368,91.96,,No,oil,other swaps(c)
+14,Q4|2010,368,91.96,,No,oil,other swaps(c)
+15,2011,2190,91.76,,No,oil,other swaps(c)
+18,Q1|2010,1170,90.25,60.00,No,oil,knock-out swaps
+19,Q2|2010,1183,90.25,60.00,No,oil,knock-out swaps
+20,Q3|2010,1196,90.25,60.00,No,oil,knock-out swaps
+21,Q4|2010,1196,90.25,60.00,No,oil,knock-out swaps
+22,2011,1095,104.75,60.00,No,oil,knock-out swaps
+23,2012,732,109.50,60.00,No,oil,knock-out swaps
+CHK20100301
+table:4,",,","volume,volume,(mbbls)","weighted average price,call,(per bbl)","cash flowhedge,cash flowhedge,","netpremiums,netpremiums,($ in millions)",product_type,instrument_type
+26,Q1|2010,630,105.00,No,Neg1,oil,call options
+27,Q2|2010,637,105.00,No,Neg1,oil,call options
+28,Q3|2010,644,105.00,No,Neg1,oil,call options
+29,Q4|2010,644,105.00,No,Neg1,oil,call options
+30,2011,3650,105.00,No,16,oil,call options
+31,2012|2014,8770,99.59,No,16,oil,call options
+CHK20110301
+table:0,",,",",volume,(bbtu)","weighted average price,fixed,(per mmbtu)","cash flowhedge,cash flowhedge,",product_type,instrument_type
+5,Q1|2011,89354,$5.60,Yes,natural gas,swaps
+6,Q2|2011,91023,5.35,Yes,natural gas,swaps
+7,Q3|2011,132480,4.93,Yes,natural gas,swaps
+8,Q4|2011,132480,4.93,Yes,natural gas,swaps
+9,2012,12800,6.00,Yes,natural gas,swaps
+12,Q1|2011,142545,6.43,No,natural gas,other swaps(a)
+13,Q2|2011,140512,6.35,No,natural gas,other swaps(a)
+14,Q3|2011,85880,6.70,No,natural gas,other swaps(a)
+15,Q4|2011,85880,6.73,No,natural gas,other swaps(a)
+16,2012,122180,6.19,No,natural gas,other swaps(a)
+CHK20110301
+table:1,",,",",volume,(bbtu)","weighted average price,call,(per mmbtu)","cash flowhedge,cash flowhedge,",product_type,instrument_type
+19,2012,161077,6.54,No,natural gas,call options
+20,2013,436033,6.44,No,natural gas,call options
+21,2014,330183,6.44,No,natural gas,call options
+22,2015,226446,6.31,No,natural gas,call options
+23,2016|2020,324003,8.31,No,natural gas,call options
+CHK20110301
+table:2,",,",",volume,(bbtu)","weighted average price,differential,(per mmbtu)","cash flowhedge,cash flowhedge,",product_type,instrument_type,additional
+33,Q2|2011,19147,Neg0.82,No,natural gas,basis protection swaps,(non-appalachian basin)
+34,Q3|2011,19397,Neg0.82,No,natural gas,basis protection swaps,(non-appalachian basin)
+35,Q4|2011,6545,Neg0.82,No,natural gas,basis protection swaps,(non-appalachian basin)
+36,2012,50532,Neg0.78,No,natural gas,basis protection swaps,(non-appalachian basin)
+37,2013|2019,29349,Neg0.69,No,natural gas,basis protection swaps,(non-appalachian basin)
+41,Q1|2011,11674,0.14,No,natural gas,basis protection swaps,(appalachian basin)
+42,Q2|2011,12186,0.14,No,natural gas,basis protection swaps,(appalachian basin)
+43,Q3|2011,12403,0.14,No,natural gas,basis protection swaps,(appalachian basin)
+44,Q4|2011,12324,0.14,No,natural gas,basis protection swaps,(appalachian basin)
+45,2012|2022,134,0.11,No,natural gas,basis protection swaps,(appalachian basin)
+CHK20110301
+table:3,",,",",volume,(bbtu)","weighted average price,fixed,(per mmbtu)","weighted average price,put,(per mmbtu)","cash flowhedge,cash flowhedge,",product_type,instrument_type
+5,Q1|2011,180,$91.35,,Yes,oil,swaps
+6,Q2|2011,182,91.35,,Yes,oil,swaps
+7,Q3|2011,184,91.35,,Yes,oil,swaps
+8,Q4|2011,184,91.35,,Yes,oil,swaps
+11,2012,1830,100.00,,No,oil,other swaps(a)
+12,2013,1825,100.00,,No,oil,other swaps(a)
+26,Q1|2011,270,104.75,60.00,No,oil,knock-out swaps
+27,Q2|2011,273,104.75,60.00,No,oil,knock-out swaps
+28,Q3|2011,276,104.75,60.00,No,oil,knock-out swaps
+29,Q4|2011,276,104.75,60.00,No,oil,knock-out swaps
+30,2012,732,109.50,60.00,No,oil,knock-out swaps
+CHK20110301
+table:4,",,",",volume,(bbtu)","weighted average price,call,(per mmbtu)","cash flowhedge,cash flowhedge,",product_type,instrument_type
+15,Q1|2011,2250,72.81,No,oil,call options(b)
+16,Q2|2011,2275,72.81,No,oil,call options(b)
+17,Q3|2011,2300,72.81,No,oil,call options(b)
+18,Q4|2011,2300,72.81,No,oil,call options(b)
+19,2012,15644,79.82,No,oil,call options(b)
+20,2013,12739,85.37,No,oil,call options(b)
+21,2014,8707,87.72,No,oil,call options(b)
+22,2015,7411,85.31,No,oil,call options(b)
+23,2016|2017,10600,84.25,No,oil,call options(b)
+CHK20120229
+table:0,",,natural gas,","volume,volume,(tbtu),","weighted average price,call,(per mmbtu),","cash flowhedge,cash flowhedge,,",instrument_type
+5,2012,370,$7.36,No,call options (sold)
+6,2013,415,6.44,No,call options (sold)
+7,2014,330,6.43,No,call options (sold)
+8,2015,226,6.31,No,call options (sold)
+9,2016,279,6.72,No,call options (sold)
+10,2017|2020,114,10.92,No,call options (sold)
+13,2012,Neg223,7.90,No,call options (bought)(a)
+14,2015,Neg110,6.16,No,call options (bought)(a)
+15,2016,Neg44,6.00,No,call options (bought)(a)
+CHK20120229
+table:1,",,natural gas,","volume,volume,(tbtu),","weighted average price,differential,(per mmbtu),","cash flowhedge,cash flowhedge,,",instrument_type
+18,Q1|2012,2,Neg0.35,No,basis protection swaps
+19,Q2|2012,20,Neg0.81,No,basis protection swaps
+20,Q3|2012,21,Neg0.80,No,basis protection swaps
+21,Q4|2012,8,Neg0.74,No,basis protection swaps
+22,2013|2018,55,Neg0.48,No,basis protection swaps
+CHK20120229
+table:2,",,oil,","volume,volume,(mmbbl),","weighted average price,fixed,(per bbl),","weighted average price,put,(per bbl),","cash flowhedge,cash flowhedge,,",instrument_type
+5,Q1|2012,4.6,$101.15,,No,non-qualified swaps
+6,Q2|2012,4.6,101.82,,No,non-qualified swaps
+7,Q3|2012,2.1,100.93,,No,non-qualified swaps
+8,Q4|2012,1.7,99.55,,No,non-qualified swaps
+9,2013,0.7,87.69,,No,non-qualified swaps
+10,2014,0.7,88.27,,No,non-qualified swaps
+11,2015,0.5,88.75,,No,non-qualified swaps
+25,Q3|2012,1.8,106.38,,No,swaptions
+26,Q4|2012,2.3,106.45,,No,swaptions
+27,2013,3.7,102.88,,No,swaptions
+30,Q1|2012,0.2,109.50,60.00,No,knock-out swaps
+31,Q2|2012,0.2,109.50,60.00,No,knock-out swaps
+32,Q3|2012,0.2,109.50,60.00,No,knock-out swaps
+33,Q4|2012,0.2,109.50,60.00,No,knock-out swaps
+CHK20120229
+table:3,",,oil,","volume,volume,(mmbbl),","weighted average price,call,(per bbl),","cash flowhedge,cash flowhedge,,",instrument_type
+14,Q1|2012,4.1,93.03,No,call options (sold)(b)
+15,Q2|2012,4.0,93.03,No,call options (sold)(b)
+16,Q3|2012,4.1,93.03,No,call options (sold)(b)
+17,Q4|2012,4.1,93.03,No,call options (sold)(b)
+18,2013,19.4,94.74,No,call options (sold)(b)
+19,2014,15.4,96.61,No,call options (sold)(b)
+20,2015,19.4,100.57,No,call options (sold)(b)
+21,2016,18.9,104.71,No,call options (sold)(b)
+22,2017,5.3,83.50,No,call options (sold)(b)
+CHK20130301
+table:0,",,,",",,volume,(tbtu)",",weighted average price,fixed,",",designated,hedge,",product_type,instrument_type
+6,Q1|2013,24,$3.90,No,natural gas,swaps
+7,Q2|2013,25,3.90,No,natural gas,swaps
+CHK20130301
+table:1,",,,",",,volume,(tbtu)",",weighted average price,call,(per mmbtu)",",designated,hedge,",product_type,instrument_type
+9,Q1|2013,44,6.39,No,natural gas,call options (sold)
+10,Q2|2013,67,6.39,No,natural gas,call options (sold)
+11,Q3|2013,68,6.39,No,natural gas,call options (sold)
+12,Q4|2013,68,6.39,No,natural gas,call options (sold)
+13,2014,330,6.43,No,natural gas,call options (sold)
+14,2015,226,6.31,No,natural gas,call options (sold)
+15,2016,279,6.72,No,natural gas,call options (sold)
+16,2017|2020,114,10.92,No,natural gas,call options (sold)
+18,Q1|2013,Neg44,6.39,No,natural gas,call options (bought)(a)
+19,Q2|2013,Neg67,6.39,No,natural gas,call options (bought)(a)
+20,Q3|2013,Neg68,6.39,No,natural gas,call options (bought)(a)
+21,Q4|2013,Neg68,6.39,No,natural gas,call options (bought)(a)
+22,2014,Neg330,6.43,No,natural gas,call options (bought)(a)
+23,2015,Neg226,6.31,No,natural gas,call options (bought)(a)
+24,2016,Neg200,6.02,No,natural gas,call options (bought)(a)
+CHK20130301
+table:2,",,,",",,volume,(tbtu)",",weighted average price,differential,",",designated,hedge,",product_type,instrument_type
+26,2013,44,Neg0.21,No,natural gas,basis protection swaps
+27,2014,28,Neg0.32,No,natural gas,basis protection swaps
+28,2015,31,Neg0.34,No,natural gas,basis protection swaps
+29,2016|2022,8,Neg1.02,No,natural gas,basis protection swaps
+CHK20130301
+table:3,",,,",",,volume,(mmbbl)",",weighted average price,fixed,",",designated,hedge,",product_type,instrument_type
+6,Q1|2013,5.9,$95.79,No,oil,swaps
+7,Q2|2013,6.9,95.95,No,oil,swaps
+8,Q3|2013,7.0,95.88,No,oil,swaps
+9,Q4|2013,6.9,95.83,No,oil,swaps
+10,2014|2015,1.4,90.11,No,oil,swaps
+29,2014,2.9,106.69,No,oil,call swaptions
+30,2015,2.4,106.61,No,oil,call swaptions
+CHK20130301
+table:4,",,,",",,volume,(mmbbl)",",weighted average price,call,(per bbl)",",designated,hedge,",product_type,instrument_type
+12,Q1|2013,4.8,94.74,No,oil,call options (sold)
+13,Q2|2013,4.8,94.74,No,oil,call options (sold)
+14,Q3|2013,4.9,94.74,No,oil,call options (sold)
+15,Q4|2013,4.9,94.74,No,oil,call options (sold)
+16,2014,16.9,96.92,No,oil,call options (sold)
+17,2015,24.7,100.45,No,oil,call options (sold)
+18,2016,18.9,104.71,No,oil,call options (sold)
+19,2017,5.3,83.50,No,oil,call options (sold)
+21,Q1|2013,Neg2.3,90.80,No,oil,call options (bought)(b)
+22,Q2|2013,Neg2.3,90.80,No,oil,call options (bought)(b)
+23,Q3|2013,Neg2.3,90.80,No,oil,call options (bought)(b)
+24,Q4|2013,Neg2.3,90.80,No,oil,call options (bought)(b)
+25,2014,Neg2.2,94.91,No,oil,call options (bought)(b)
+CHK20130301
+table:5,",,,",",,volume,(mmbbl)",",weighted average price,differential,",",designated,hedge,",product_type,instrument_type
+27,2013,5.5,13.20,No,oil,basis protection swaps
+CHK20140227
+table:0,",,,",",,volume,(tbtu)",",weighted average price,fixed,($ per mmbtu)",product_type,instrument_type
+6,Short-term,448,4.15,natural gas,swaps
+17,Short-term,12,4.80,natural gas,swaptions
+CHK20140227
+table:1,",,,",",,volume,(tbtu)",",weighted average price,call,($ per mmbtu)",",weighted average price,put,($ per mmbtu)",product_type,instrument_type
+8,Short-term,196,4.38,3.58 / 4.13,natural gas,3-way collars
+9,Long-term,92,4.45,3.38 / 4.24,natural gas,3-way collars
+11,Short-term,330,6.43,,natural gas,call options (sold)
+12,Long-term,619,7.34,,natural gas,call options (sold)
+14,Long-term,Neg330,6.43,,natural gas,call options (bought)(a)
+15,Short-term,Neg426,6.17,,natural gas,call options (bought)(a)
+CHK20140227
+table:2,",,,",",,volume,(tbtu)",",weighted average price,differential,($ per mmbtu)",product_type,instrument_type
+19,Short-term,28,Neg0.32,natural gas,basis protection swaps
+20,Long-term,40,Neg0.48,natural gas,basis protection swaps
+CHK20140227
+table:3,",,,",",,volume,(mmbbl)",",weighted average price,fixed,($ per bbl)",product_type,instrument_type
+6,Short-term,24.6,93.92,oil,swaps
+7,Long-term,0.7,89.47,oil,swaps
+CHK20140227
+table:4,",,,",",,volume,(mmbbl)",",weighted average price,call,($ per bbl)",product_type,instrument_type
+9,Short-term,13.4,96.11,oil,call options (sold)
+10,Long-term,48.9,100.26,oil,call options (sold)
+12,Short-term,Neg10.9,98.97,oil,call options (bought)(b)
+13,Long-term,Neg8.9,113.54,oil,call options (bought)(b)
+CHK20140227
+table:5,",,,",",,volume,(mmbbl)",",weighted average price,differential,($ per bbl)",product_type,instrument_type
+15,Short-term,0.4,6.00,oil,basis protection swaps
+CHK20150227
+table:0,",,,",",,volume,(mmbbl)",",weighted average price,fixed,($ per bbl)",product_type,instrument_type
+6,Short-term,12.5,$94.58,oil,swaps
+CHK20150227
+table:1,",,,",",,volume,(mmbbl)",",weighted average price,call,($ per bbl)",",weighted average price,put,($ per bbl)",product_type,instrument_type
+8,Short-term,4.4,98.94,80.00 / 90.00,oil,3-way collars
+11,Short-term,20.5,101.85,,oil,call options (sold)
+12,Long-term,24.2,100.07,,oil,call options (sold)
+14,Short-term,Neg8.9,113.54,,oil,call options (bought)(a)
+CHK20150227
+table:2,",,,,natural gas",",,volume,(tbtu),",",weighted average price,fixed,($ per mmbtu),",instrument_type
+6,Short-term,238,$4.14,swaps
+7,Long-term,37,3.95,swaps
+CHK20150227
+table:3,",,,,natural gas",",,volume,(tbtu),",",weighted average price,call,($ per mmbtu),",",weighted average price,put,($ per mmbtu),",instrument_type
+9,Short-term,207,4.51,3.37 / 4.29,3-way collars
+11,Short-term,226,6.31,,call options (sold)
+12,Long-term,393,7.93,,call options (sold)
+14,Short-term,Neg226,6.31,,call options (bought)(b)
+15,Long-term,Neg200,6.02,,call options (bought)(b)
+CHK20150227
+table:4,",,,,natural gas",",,volume,(tbtu),",",weighted average price,differential,($ per mmbtu),",instrument_type
+17,Short-term,52,0.55,basis protection swaps
+18,Long-term,8,Neg1.02,basis protection swaps
+CHK20160225
+table:0,",,,",",,volume,(mmbbl)",",weighted average price,fixed,($ per bbl)",product_type,instrument_type
+6,Short-term,13.5,$52.05,oil,swaps(a)
+CHK20160225
+table:1,",,,",volume(tbtu),fixed($ per mmbtu),product_type,instrument_type
+17,short-term,500,$2.94,natural gas,swaps(b)
+CHK20160225
+table:2,",,,",",,volume,(mmbbl)",",weighted average price,call,($ per bbl)",product_type,instrument_type
+8,Short-term,13.9,87.25,oil,call options (sold)
+9,Long-term,5.3,83.50,oil,call options (sold)
+CHK20160225
+table:3,",,,",volume(tbtu),call($ per mmbtu),product_type,instrument_type
+19,short-term,381,5.66,natural gas,call options (sold)
+20,Long-term,114,10.92,natural gas,call options (sold)
+22,Short-term,Neg200,6.02,natural gas,call options (bought)(c)
+CHK20160225
+table:4,",,,",volume(tbtu),differential($ per mmbtu),product_type,instrument_type
+24,short-term,33,0.17,natural gas,basis protection swaps
+25,Long-term,24,Neg0.48,natural gas,basis protection swaps
