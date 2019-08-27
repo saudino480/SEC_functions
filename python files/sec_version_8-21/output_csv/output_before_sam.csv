@@ -1,0 +1,126 @@
+AREX20080328
+table:0,",period,","volume (mmbtu),monthly,","volume (mmbtu),total,","$/mmbtu,fixed,",additional,instrument_type
+10,2nd quarter 2008,100000,300000,$8.10,nymex henry hub,fixed price swaps
+11,4th quarter 2008,100000,300000,$8.63,nymex henry hub,fixed price swaps
+13,Fixed price swaps 2008,186000,2230000,Neg0.69,waha differential,fixed price swaps
+14,Fixed price swaps 2008 (2nd 4th quarter),100000,900000,Neg0.67,waha differential,fixed price swaps
+15,Fixed price swaps 2009,200000,2400000,Neg0.61,waha differential,fixed price swaps
+AREX20080328
+table:1,",period,","volume (mmbtu),monthly,","volume (mmbtu),total,","$/mmbtu,floor,","$/mmbtu,ceiling,",additional
+4,Costless collars 2008,186000,2230000,$7.50,$11.45,nymex henry hub
+5,Costless collars 2008 (3rd quarter),100000,300000,$7.00,$9.10,nymex henry hub
+6,Costless collars 2008 (2nd 4th quarter),200000,1800000,$9.00,$12.20,nymex henry hub
+7,Costless collars 2009,180000,2160000,$7.50,$10.50,nymex henry hub
+8,Costless collars 2009,130000,1560000,$8.50,$11.70,nymex henry hub
+AREX20080328
+table:2,",period,","volume (mmbtu),monthly,","volume (mmbtu),total,","$/mmbtu,floor,","$/mmbtu,ceiling,",additional
+4,Costless collar 2008,186000,2230000,$7.50,$11.45,nymex henry hub
+5,Costless collar 2009,180000,2160000,$7.50,$10.50,nymex henry hub
+AREX20080328
+table:3,",period,","volume (mmbtu),monthly,","volume (mmbtu),total,","$/mmbtu,fixed,",additional,instrument_type
+8,Fixed price swaps 2008 (2nd 4th quarter),100000,900000,$(0.67,waha differential,
+10,2nd quarter 2008,100000,300000,$8.10,waha differential,fixed price swaps
+11,4th quarter 2008,100000,300000,$8.63,waha differential,fixed price swaps
+AREX20090313
+table:0,",period,","volume (mmbtu),monthly,","volume (mmbtu),total,","$/mmbtu,fixed,",additional
+7,Fixed price swaps 2009,200000,2400000,Neg0.61,waha differential
+AREX20090313
+table:1,",period,","volume (mmbtu),monthly,","volume (mmbtu),total,","$/mmbtu,floor,","$/mmbtu,ceiling,",additional
+4,Costless collars 2009,180000,2160000,$7.50,$10.50,nymex henry hub
+5,Costless collars 2009,130000,1560000,$8.50,$11.70,nymex henry hub
+AREX20100312
+table:0,",period,","volume (mmbtu),monthly,","volume (mmbtu),total,","$/mmbtu,fixed,",additional
+4,Price swaps 2010,150000,1800000,$5.85,nymex henry hub
+5,Price swaps 2010,150000,1800000,$6.40,nymex henry hub
+6,Price swaps 2010,100000,1200000,$6.36,nymex henry hub
+8,Basis swaps 2010,415000,4980000,$(0.71,waha basis differential
+9,Basis swaps 2011,300000,3600000,$(0.53,waha basis differential
+AREX20110311
+table:0,",period,","volume (mmbtu),monthly,","volume (mmbtu),total,","$/mmbtu,fixed,",additional
+4,Price swaps 2011,230000,2760000,$4.86,nymex henry hub
+5,Price call 2012,230000,2760000,$6.00,nymex henry hub
+7,Basis swaps 2011,300000,3600000,$(0.53,waha basis differential
+AREX20120312
+table:0,commodity and period,contracttype,volume transacted,contract price
+1,Natural Gas 2012,Call,230000 MMBtu/month,$6.00/MMBtu
+2,Crude Oil 2012,Collar,700 Bbls/d,$85.00/Bbl $97.50/Bbl
+3,Crude Oil 2012,Collar,500 Bbls/d,$90.00/Bbl $106.10/Bbl
+AREX20120312
+table:1,commodity and period,contracttype,volume transacted,contract price
+1,Natural Gasoline February 2012 December 2012,Swap,225 Bbls/d,$95.55/Bbl
+2,Normal Butane March 2012 December 2012,Swap,225 Bbls/d,$73.92/Bbl
+3,Crude Oil 2013,Collar,650 Bbls/d,$90.00/Bbl $105.80/Bbl
+4,Crude Oil 2014,Collar,550 Bbls/d,$90.00/Bbl $105.50/Bbl
+AREX20130228
+table:0,commodity and time period,contracttype,volume transacted,contract price,product_type
+2,2013,Collar,650 Bbls/d,$90.00/Bbl $105.80/Bbl,crude oil
+3,2013,Collar,450 Bbls/d,$90.00/Bbl $101.45/Bbl,crude oil
+4,2014,Collar,550 Bbls/d,$90.00/Bbl $105.50/Bbl,crude oil
+6,2013,Swap,200000 MMBtu/month,$3.54/MMBtu,natural gas
+7,2013,Swap,190000 MMBtu/month,$3.80/MMBtu,natural gas
+AREX20140225
+table:0,commodity and period,contracttype,volume transacted,contract price,product_type
+2,2014,Collar,550 Bbls/d,$90.00/Bbl $105.50/Bbl,crude oil
+3,2014,Collar,950 Bbls/d,$85.05/Bbl $95.05/Bbl,crude oil
+4,2014,Collar,2000 Bbls/d,$89.00/Bbl $98.85/Bbl,crude oil
+5,2015,Collar,2600 Bbls/d,$84.00/Bbl $91.00/Bbl,crude oil
+7,2014,Swap,1500 Bbls/d,$0.55/Bbl,crude oil basis differential (midland/cushing)
+9,Propane 2014,Swap,500 Bbls/d,$41.16/Bbl,natural gas liquids
+10,Natural Gasoline 2014,Swap,175 Bbls/d,$83.37/Bbl,natural gas liquids
+12,2014,Swap,360000 MMBtu/month,$4.18/MMBtu,natural gas
+13,"2014,",Swap,35000 MMBtu/month,$4.29/MMBtu,natural gas
+14,2015,Swap,200000 MMBtu/month,$4.10/MMBtu,natural gas
+15,2015,Collar,130000 MMBtu/month,$4.00/MMBtu $4.25/MMBtu,natural gas
+AREX20150226
+table:0,commodity and period,contracttype,volume transacted,contract price,product_type
+2,January 2015 March 2015,Collar,1500 Bbls/d,$85.00/Bbl $95.30/Bbl,crude oil
+3,January 2015 December 2015,Collar,1600 Bbls/d,$84.00/Bbl $91.00/Bbl,crude oil
+4,January 2015 December 2015,Collar,1000 Bbls/d,$90.00/Bbl $102.50/Bbl,crude oil
+5,January 2015 December 2015,Three-WayCollar,500 Bbls/d,$75.00/Bbl $84.00/Bbl $94.00/Bbl,crude oil
+6,January 2015 December 2015,Three-WayCollar,500 Bbls/d,$75.00/Bbl $84.00/Bbl $95.00/Bbl,crude oil
+9,January 2015 June 2015,Collar,80000 MMBtu/month,$4.00/MMBtu $4.74/MMBtu,natural gas
+10,January 2015 December 2015,Swap,200000 MMBtu/month,$4.10/MMBtu,natural gas
+11,January 2015 December 2015,Collar,130000 MMBtu/month,$4.00/MMBtu $4.25/MMBtu,natural gas
+AREX20150226
+table:1,commodity and period,contracttype,volume transacted,contract price,product_type
+2,January 2015 March 2015,Collar,1500 Bbls/d,$85.00/Bbl $95.30/Bbl,crude oil
+3,January 2015 December 2015,Collar,1600 Bbls/d,$84.00/Bbl $91.00/Bbl,crude oil
+4,January 2015 December 2015,Collar,1000 Bbls/d,$90.00/Bbl $102.50/Bbl,crude oil
+5,January 2015 December 2015,Three-WayCollar,500 Bbls/d,$75.00/Bbl $84.00/Bbl $94.00/Bbl,crude oil
+6,January 2015 December 2015,Three-WayCollar,500 Bbls/d,$75.00/Bbl $84.00/Bbl $95.00/Bbl,crude oil
+8,January 2015 June 2015,Collar,80000 MMBtu/month,$4.00/MMBtu $4.74/MMBtu,natural gas
+9,January 2015 December 2015,Swap,200000MMBtu/month,$4.10/MMBtu,natural gas
+10,January 2015 December 2015,Collar,130000MMBtu/month,$4.00/MMBtu $4.25/MMBtu,natural gas
+AREX20160304
+table:0,commodity and period,contracttype,volume transacted,contract price,product_type
+2,January 2016 December 2016,Swap,500 Bbls/d,$62.50/Bbl,crude oil
+3,January 2016 December 2016,Swap,250 Bbls/d,$62.55/Bbl,crude oil
+4,January 2016 June 2016,Swap,500 Bbls/d,$40.25/Bbl,crude oil
+5,January 2016 June 2016,Swap,1000 Bbls/d,$40.00/Bbl,crude oil
+8,March 2016 December 2016,Swap,100000 MMBtu/month,$2.91/MMBtu,natural gas
+9,March 2016 December 2016,Swap,100000 MMBtu/month,$2.95/MMBtu,natural gas
+AREX20170310
+table:0,commodity and period,contract type,volume transacted,contract price,product_type
+1,January 2018 December 2018,Swap,200000 MMBtu/month,$3.085/MMBtu,natural gas
+2,January 2018 December 2018,Swap,250000 MMBtu/month,$3.084/MMBtu,natural gas
+4,February 2017 December 2017,Swap,1050 Bbls/day,$11.34/Bbl,ngl (c2 - ethane)
+6,February 2017 December 2017,Swap,750 Bbls/day,$27.916/Bbl,ngl (c3 - propane)
+8,February 2017 December 2017,Swap,75 Bbls/day,$36.7325/Bbl,ngl (ic4 - isobutane)
+10,February 2017 December 2017,Swap,250 Bbls/day,$35.9205/Bbl,ngl (nc4 - butane)
+AREX20170310
+table:1,commodity and period,contract type,volume transacted,contract price,product_type
+1,January 2017 March 2017,Swap,100000 MMBtu/month,$2.463/MMBtu,natural gas
+2,January 2017 March 2017,Swap,300000 MMBtu/month,$2.45/MMBtu,natural gas
+3,January 2017 March 2017,Swap,200000 MMBtu/month,$3.287/MMBtu,natural gas
+4,January 2017 December 2017,Collar,100000 MMBtu/month,$3.00/MMBtu - $3.65/MMBtu,natural gas
+5,April 2017 December 2017,Collar,200000 MMBtu/month,$2.30/MMBtu - $2.60/MMBtu,natural gas
+6,April 2017 December 2017,Collar,200000 MMBtu/month,$3.00/MMBtu - $3.44/MMBtu,natural gas
+7,April 2017 December 2017,Collar,200000 MMBtu/month,$3.00/MMBtu - $3.50/MMBtu,natural gas
+AREX20170310
+table:2,commodity and period,contract type,volume transacted,contract price,product_type
+1,January 2018 December 2018,Swap,200000 MMBtu/month,$3.085/MMBtu,natural gas
+2,January 2018 December 2018,Swap,250000 MMBtu/month,$3.084/MMBtu,natural gas
+4,February 2017 December 2017,Swap,1050 Bbls/day,$11.34/Bbl,ngls (c2 - ethane)
+6,February 2017 December 2017,Swap,750 Bbls/day,$27.916/Bbl,ngls (c3 - propane)
+8,February 2017 December 2017,Swap,75 Bbls/day,$36.7325/Bbl,ngls (ic4 - isobutane)
+10,February 2017 December 2017,Swap,250 Bbls/day,$35.9205/Bbl,ngls (nc4 - butane)

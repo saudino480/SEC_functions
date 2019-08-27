@@ -1,0 +1,21 @@
+,doc_id,vol_1,vol_1_type,price_1,price_1_type,maturity,instrument_type,product_type,red_flag,price_2,price_2_type,price_3,price_3_type,price_4,price_4_type
+4,CLR20110225,915000,bbls,$100.01,swapsweightedaverage,2012,swap,oil,,,,,,,
+6,CLR20110225,3102500,bbls,$90|$95,floor,2013,collar,oil,,$91.59,floor,$97.25|$101.60,ceiling,$99.13,ceiling
+2,CLR20110225,2360000,mmbtu,$4.69,swapsweightedaverage,2011,swap,natural gas,,,,,,,
+4,CLR20110225,3640000,mmbtu,4.69,swapsweightedaverage,2011,swap,natural gas,,,,,,,
+6,CLR20110225,3910000,mmbtu,4.69,swapsweightedaverage,2011,swap,natural gas,,,,,,,
+8,CLR20110225,4232000,mmbtu,4.73,swapsweightedaverage,2011,swap,natural gas,,,,,,,
+10,CLR20110225,3660000,mmbtu,5.07,swapsweightedaverage,2012,swap,natural gas,,,,,,,
+5,CLR20110225,284000,bbls,$83.86,swapsweightedaverage,2011,swap,oil,,,,,,,
+8,CLR20110225,273000,bbls,84.67,swapsweightedaverage,2011,swap,oil,,,,,,,
+11,CLR20110225,460000,bbls,85.64,swapsweightedaverage,2011,swap,oil,,,,,,,
+14,CLR20110225,644000,bbls,86.25,swapsweightedaverage,2011,swap,oil,,,,,,,
+17,CLR20110225,7320000,bbls,86.90,swapsweightedaverage,2012,swap,oil,,,,,,,
+20,CLR20110225,5110000,bbls,88.63,swapsweightedaverage,2013,swap,oil,,,,,,,
+6,CLR20110225,2565000,bbls,$75|$80,floor,2011,collar,oil,,$78.95,floor,$88.65|$97.25,ceiling,$91.70,ceiling
+9,CLR20110225,2593500,bbls,$75|$80,floor,2011,collar,oil,,79.39,floor,$89.00|$97.25,ceiling,91.27,ceiling
+12,CLR20110225,2622000,bbls,$75|$80,floor,2011,collar,oil,,79.39,floor,$89.00|$97.25,ceiling,91.27,ceiling
+15,CLR20110225,2622000,bbls,$75|$80,floor,2011,collar,oil,,79.39,floor,$89.00|$97.25,ceiling,91.27,ceiling
+18,CLR20110225,5332620,bbls,$80,floor,2012,collar,oil,,80.00,floor,$93.25|$97.00,ceiling,94.71,ceiling
+21,CLR20110225,4745000,bbls,$80|$85,floor,2013,collar,oil,,82.31,floor,$92.30|$101.70,ceiling,97.58,ceiling
+2,CLR20110225,11862500,mmbtu,$6.36,swapsweightedaverage,2011,swap,natural gas,,,,,,,
