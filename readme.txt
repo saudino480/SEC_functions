@@ -4,9 +4,7 @@ This project attempts to understand how a commodity company's hedging position i
 
 While we were not able to completely understand the trends that occur due to a company's hedging ratio in the short two weeks that we had to finish the project, we were able to build an efficient ETL pipeline that ingested raw data scrapped directly from the SEC website and turn data that was formatted in many different ways into a uniform framework, as well as identifying what kind of commodity it was (oil, natural gas, liquid natural gas), as well as what instrument was used to hedge (swap, collar, put, etc). 
 
-You will find in the /python_files directory the Jupyter Notebooks used to clean some of the individual tickers. The necessary pickle file has been included so that you can run the processes yourself and see how the data is transformed. You can find a simple overview of this process in the powerpoint "DSA Capstone Project.pdf". For a more indepth look, please feel free to either look into the individual helper files (sja_functions.py, zlu_functions.py, nel_functions.py) or contact me on GitHub or at saudino480@gmail.com.
-
-Additionally, we have included the analysis, which is also summarised in "DSA Capstone Project.pdf".
+You will find in the /python_files directory two folders, one titled Analysis, and the other titled sec_version_#_##. The Jupyter Notebooks used to clean some of the individual tickers are located in the sec_version_#_## folder, while the analysis folder contains the models and visualizations of the data. The necessary pickle file has been included so that you can run the processes yourself and see how the data is transformed. You can find a simple overview of this process in the powerpoint "DSA Capstone Project.pdf". A summary of the analysis can also be found in the above PDF. For a more indepth look, please feel free to either look into the individual helper files (sja_functions.py, zlu_functions.py, nel_functions.py) or contact me on GitHub or at saudino480@gmail.com.
 
 Enjoy looking around,
 Sam Audino
